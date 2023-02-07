@@ -5,7 +5,10 @@
 ### a solid background in Software Development, especially Frontend development ( HTML, CSS, JavaScript and React), Backend development (nodejs, Java, Springboot, Maven, SQL) and related techonologies (REST APIs, Git, Scrum).
 
 Checkout my projects: 
-
+Tour Booking: https://tour-booking.herokuapp.com/?fbclid=IwAR1vIc8xOHg26m7r4wJkmvx8kT1jLzxblBKYKokDOZoRNj9Vx5wMwRTxlUk
+Truck Management: https://truck-management.herokuapp.com/truck?fbclid=IwAR0GfpBsMPD_jRlVE_kszF_08hJ2xQxpMPfxA9pPNWp6hcW8CepSR4F0Nq0
+Picking List: https://picking-list.herokuapp.com/?fbclid=IwAR29iM92-fotUSmI5OJKG9wK9rQu-sIcaBRtX0sgHXuFfnM3xAXsQJQDvnA
+OOP dodging game: https://github.com/ngoctran-thn/oop_dodging_games
 
 <!--
 **ngoctran-thn/ngoctran-thn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
